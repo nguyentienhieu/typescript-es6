@@ -1,0 +1,17 @@
+{
+  "name": "tsdemo",
+  "version": "1.0.0",
+  "description": "TypeScript Demo",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
